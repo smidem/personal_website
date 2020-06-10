@@ -1,3 +1,26 @@
+This is all the code used to create my personal website, shane.mcguckian.dev
+
+In this project I wanted to use a wide range of tools. I'm always learning to use new tools,
+and I wanted to showcase a good number of those here. Currently, the site is using the following 
+technology stack:
+* React
+* Flask
+* PostgreSQL
+* SQLAlchemy
+* pytest
+* AWS EC2
+* AWS RDS
+* Trello
+* GitHub Issues
+
+One of the things that really drew me to programming early on was the open source 
+community. This spirit of collaboration is what makes Python so incredible I think. 
+In an effort to contribute to this great community, I've open sourced everything I can. 
+I hope you enjoy my site, and please borrow anything you like. Feel free to dig into
+some of the projects I've been working on, and take a look at what I've been learning 
+recently. 
+# 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
