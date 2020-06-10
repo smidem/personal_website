@@ -1,7 +1,7 @@
 This is all the code used to create my personal website, shane.mcguckian.dev
 
 In this project I wanted to use a wide range of tools. I'm always learning to use new tools,
-and I wanted to showcase a good number of those here. Currently, the site is using the following 
+and I wanted to showcase a good number of those here. The site is still under construction but I plan to use the following 
 technology stack:
 * React
 * Flask
